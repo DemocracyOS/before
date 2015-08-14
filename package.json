@@ -1,6 +1,6 @@
 {
-  "name": "before",
-  "repository": "https://github.com/yields/before",
+  "name": "democracyos-before",
+  "repository": "https://github.com/DemocracyOS/before",
   "description": "standalone before",
   "version": "0.1.0",
   "keywords": ["before"],
